@@ -3,7 +3,7 @@ published: true
 title: 8 Free WordPress Plugins to Manage Your Media Library
 categories: WordPress
 layout: post
-date: 2019-02-10T13:22:45.000Z
+date: 2019-02-09T20:00:03.000Z
 ---
 Throughout the 2 years Mango has been working on WordPress websites, one big part is managing the media. The capability to manage the website assets such as gallery images, music, video or downloadable attachments is a must have feature. WordPress has an easy to use core feature called [Media Library](https://en.support.wordpress.com/media/){:target="_blank"} which offers basic stuff like cropping, resizing, and rotating. Files are stored on folders based on year and month on the /wp-content/uploads directory. 
 
