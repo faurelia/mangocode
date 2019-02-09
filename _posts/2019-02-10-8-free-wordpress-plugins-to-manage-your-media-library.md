@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 8 Free WordPress Plugins to Manage Your Media Library
 categories: WordPress
 layout: post
