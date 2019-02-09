@@ -15,12 +15,9 @@ url: https://mangoco.de
 twitter_username: mangocode
 github_username: mangocode
 markdown: kramdown
-theme: tale
-remote_theme: chesterhow/tale
-permalink: "/:year-:month-:day/:title"
+permalink: "/:title"
 paginate: 5
 plugins:
 - jekyll-feed
 - jekyll-paginate
-- jekyll-remote-theme
 - jekyll-seo-tag
