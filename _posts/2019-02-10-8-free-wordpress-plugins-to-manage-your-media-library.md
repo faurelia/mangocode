@@ -23,10 +23,11 @@ If you want more capabilities like organizing folders, renaming or compressing i
 ## [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/){:target="_blank"}
 
 As the name says, this plugin allows you to regenerate all the thumbnails for one or more images in your Media Library. It also enables you to delete old sizes so you can free up some disk space.
-Common Use Cases for Regenerate Thumbnails
-You changed to a WordPress theme that uses different size for Featured Image
-A new thumbnail size has been added (maybe from a plugin) and you want to update past uploads to have that size
-You changed the dimensions of existing thumbnail via Settings → Media
+
+### Common Use Cases for Regenerate Thumbnails
+- You changed to a WordPress theme that uses different size for Featured Image
+- A new thumbnail size has been added (maybe from a plugin) and you want to update past uploads to have that size
+- You changed the dimensions of existing thumbnail via Settings → Media
 
 ## [Enable Media Replace](https://wordpress.org/plugins/enable-media-replace/){:target="_blank"}
 
