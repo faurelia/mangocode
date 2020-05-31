@@ -3,9 +3,9 @@ published: true
 title: 8 Free WordPress Plugins to Manage Your Media Library
 categories: WordPress
 layout: post
-date: 2019-02-09T20:00:03.000Z
+date: {}
 ---
-Throughout the 2 years Mango has been working on WordPress websites, one big part is managing the media. The capability to manage the website assets such as gallery images, music, video or downloadable attachments is a must have feature. WordPress has an easy to use core feature called [Media Library](https://en.support.wordpress.com/media/){:target="_blank"} which offers basic stuff like cropping, resizing, and rotating. Files are stored on folders based on year and month on the /wp-content/uploads directory. 
+Throughout that I have been working on WordPress websites, one big part is managing the media. The capability to manage the website assets such as gallery images, music, video or downloadable attachments is a must have feature. WordPress has an easy to use core feature called [Media Library](https://en.support.wordpress.com/media/){:target="_blank"} which offers basic stuff like cropping, resizing, and rotating. Files are stored on folders based on year and month on the /wp-content/uploads directory. 
 
 If you want more capabilities like organizing folders, renaming or compressing images, and more, you would have to install plugin(s). With that said, Mango has taken the initiative to compile the best Media Library management plugins for WordPress below and hope you would find it helpful.
 
@@ -78,4 +78,4 @@ As the number of visitors on your website grow, it is important to serve the pag
 This plugin is an easy to use backup tool. With one click, you can create a backup of all your website source files including your Media Library. Whether you just want to make a copy of your files or migrating to another domain / hosting, there is no worry for broken links as it is automatically updated. The plugin also offers paid extensions to let you choose where you want to store your backups ([Amazon S3](https://aws.amazon.com/s3/){:target="_blank"}, [Google Drive](https://www.google.com/drive/){:target="_blank"}, [Dropbox](https://www.dropbox.com/){:target="_blank"}, etc). Making regular backups of your website is important so this plugin is definitely must have.
 
 
-Now that Mango listed all these plugins to help you efficiently manage your WordPress Media Library, which one do you find helpful ? If you are interested in reading more tips and guides about WP website management, subscribe to get future updates.
+Now that I've listed all these plugins to help you efficiently manage your WordPress Media Library, which one do you find helpful ? If you are interested in reading more tips and guides about WP website management, subscribe to get future updates.
