@@ -24,16 +24,16 @@ function custom_thank_you() {
 
 ### I cannot add this code.
 
-If you do not have coding skills, no worries. You can install a plugin called [Say What?](https://wordpress.org/plugins/say-what/) and change the text from there.
+If you do not have coding skills, no worries. You can install a plugin called [Say What?](https://wordpress.org/plugins/say-what/){:target="_blank"} and change the text from there.
 
 After you installed the plugin, go to your dashboard menu **Tools &raquo; Text Changes**
 
 Add the text as seen on the screenshot below then save.
 
-![Screen Shot 2020-10-23 at 6.55.56 PM.png](../_posts/Screen Shot 2020-10-23 at 6.55.56 PM.png)
+![Screen Shot 2020-10-23 at 6.55.56 PM.png](./assets/uploads/2020-10/say-what.png){:width="60%"}
 
 
 When done, you can test it.
 
-![Screen Shot 2020-10-23 at 6.56.37 PM.png](../_posts/Screen Shot 2020-10-23 at 6.56.37 PM.png)
+![Screen Shot 2020-10-23 at 6.56.37 PM.png](./assets/uploads/2020-10/order-recieved.png){:width="80%"}
 
