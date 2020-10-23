@@ -1,9 +1,9 @@
 ---
 published: true
 title: Change Currency Symbol in Woocommerce
-categories: WordPress
+categories: 'WordPress, WooCommerce, Currency'
 layout: post
-date: 2020-10-23 18:06:34
+date: 2020-10-23T18:06:34.000Z
 ---
 
 If you are looking for a way to change your online store's currency symbol, add the below code snippet in your child theme's functions.php
