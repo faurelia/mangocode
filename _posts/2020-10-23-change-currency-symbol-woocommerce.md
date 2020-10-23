@@ -6,8 +6,8 @@ layout: post
 date: 2020-10-23T18:06:34.000Z
 excerpt_separator: <!--more-->
 ---
-
 If you are looking for a way to change your online store's currency symbol, add the below code snippet in your child theme's `functions.php`
+
 <!--more-->
 
 ```php
