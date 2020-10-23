@@ -1,3 +1,11 @@
+---
+published: true
+title: Change Order Received Message Woocommerce
+categories: 'WordPress, WooCommerce'
+layout: post
+date: 2020-10-23T10:20:00.000Z
+excerpt_separator: <!--more-->
+---
 
 Here is how you can change your online's store **Order Received Thank You Message** after your customers completed their order.
 
@@ -16,7 +24,7 @@ function custom_thank_you() {
 
 ### I cannot add this code.
 
-If you do not have coding skills, no worries. You can install a plugin called [Say What?(https://wordpress.org/plugins/say-what/) and change the text from there.
+If you do not have coding skills, no worries. You can install a plugin called [Say What?](https://wordpress.org/plugins/say-what/) and change the text from there.
 
 After you installed the plugin, go to your dashboard menu **Tools &raquo; Text Changes**
 
