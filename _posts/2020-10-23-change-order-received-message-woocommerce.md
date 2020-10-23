@@ -30,10 +30,10 @@ After you installed the plugin, go to your dashboard menu **Tools &raquo; Text C
 
 Add the text as seen on the screenshot below then save.
 
-![Screen Shot 2020-10-23 at 6.55.56 PM.png]({{site.url}}/_posts/Screen Shot 2020-10-23 at 6.55.56 PM.png)
+![Screen Shot 2020-10-23 at 6.55.56 PM.png](./Screen Shot 2020-10-23 at 6.55.56 PM.png)
 
 
 When done, you can test it.
 
-![Screen Shot 2020-10-23 at 6.56.37 PM.png]({{site.url}}/_posts/Screen Shot 2020-10-23 at 6.56.37 PM.png)
+![Screen Shot 2020-10-23 at 6.56.37 PM.png](./Screen Shot 2020-10-23 at 6.56.37 PM.png)
 
