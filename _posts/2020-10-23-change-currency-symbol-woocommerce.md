@@ -6,7 +6,9 @@ layout: post
 date: 2020-10-23T18:06:34.000Z
 excerpt_separator: <!--more-->
 ---
-If you are looking for a way to change your online store's currency symbol, add the below code snippet in your child theme's `functions.php`
+If you are like me who have some clients that want to change their online store's currency symbol, then  you are in the right place.
+
+Add the below code snippet in your child theme's `functions.php`. It will work as long as your site is running **WordPress** and **WooCommerce**
 
 <!--more-->
 
